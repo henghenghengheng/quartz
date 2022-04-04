@@ -1,7 +1,7 @@
 ---
 title: "Charles Griffes - The Pleasure-Dome of Kubla Khan (1919)"
 tags:
-- Griffes 
+- #Griffes 
 enableToc: false # do not show a table of contents on this page
 ---
 

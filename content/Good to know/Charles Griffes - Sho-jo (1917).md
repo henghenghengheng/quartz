@@ -1,7 +1,7 @@
 ---
 title: "Charles Griffes - Sho-jo (1917)"
 tags:
-- Griffes 
+- #Griffes 
 enableToc: false # do not show a table of contents on this page
 ---
 

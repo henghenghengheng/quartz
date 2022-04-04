@@ -1,7 +1,7 @@
 ---
 title: "Charles Griffes - Five Poems of Ancient China and Japan (1917)"
 tags:
-- Griffes 
+- #Griffes 
 enableToc: false # do not show a table of contents on this page
 ---
 

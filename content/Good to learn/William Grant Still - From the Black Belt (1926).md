@@ -1,7 +1,7 @@
 ---
 title: "William Grant Still - From the Black Belt (1926)"
 tags:
-- WGStill   
+- #WGStill   
 enableToc: false # do not show a table of contents on this page
 ---
 

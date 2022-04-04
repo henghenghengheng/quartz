@@ -1,7 +1,7 @@
 ---
 title: "Charles Ives - Concord Sonata (1910-15)"
 tags:
-- Ives   
+- #Ives   
 enableToc: false # do not show a table of contents on this page
 ---
 

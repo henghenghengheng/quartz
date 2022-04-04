@@ -1,7 +1,7 @@
 ---
 title: "William Grant Still - And They Lynched Him on a Tree (1940)"
 tags:
-- WGStill   
+- #WGStill   
 enableToc: false # do not show a table of contents on this page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "NATIONALISM"
 tags:
-- topic     
+- #topic     
 enableToc: false # do not show a table of contents on this page
 ---
 
