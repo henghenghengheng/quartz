@@ -1,7 +1,7 @@
 ---
 title: "Samuel Barber - Hermit Songs (1953)"
 tags:
-- #Barber  
+- Barber  
 enableToc: false # do not show a table of contents on this page
 ---
 

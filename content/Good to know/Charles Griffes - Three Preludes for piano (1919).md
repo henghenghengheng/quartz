@@ -1,7 +1,7 @@
 ---
 title: "Charles Griffes - Three Preludes for piano (1919)"
 tags:
-- #Griffes 
+- Griffes 
 enableToc: false # do not show a table of contents on this page
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Samuel Barber - Knoxville, Summer of 1915 (1947)"
 tags:
-- #Barber  
+- Barber  
 enableToc: false # do not show a table of contents on this page
 ---
 

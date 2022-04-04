@@ -1,7 +1,7 @@
 ---
 title: "William Grant Still - Afro-American Symphony (1930)"
 tags:
-- #WGStill    
+- WGStill    
 enableToc: false # do not show a table of contents on this page
 ---
 

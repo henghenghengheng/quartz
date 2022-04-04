@@ -1,7 +1,7 @@
 ---
 title: "Charles Griffes - Three Tone-Pictures (1915)"
 tags:
-- #Griffes 
+- Griffes 
 enableToc: false # do not show a table of contents on this page
 ---
 

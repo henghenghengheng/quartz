@@ -1,7 +1,7 @@
 ---
 title: "Charles Ives - Central Park in the Dark (1906)"
 tags:
-- #Ives   
+- Ives   
 enableToc: false # do not show a table of contents on this page
 ---
 
