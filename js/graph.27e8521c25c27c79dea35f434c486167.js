@@ -70,7 +70,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
       .on("end", enableDrag ? dragended : noop);
   }
 
-  const height = 600
+  const height = 250
   const width = document.getElementById("graph-container").offsetWidth
 
   const simulation = d3.forceSimulation(data.nodes)
@@ -186,7 +186,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
     .attr("dx", 12)
     .attr("dy", ".35em")
     .text((d) => content[d.id]?.title || d.id.replace("-", " "))
-    .style("opacity", 0.5)
+    .style("opacity", 0)
     .style("pointer-events", "none")
     .call(drag(simulation));
 
