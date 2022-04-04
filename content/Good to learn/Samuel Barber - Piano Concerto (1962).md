@@ -1,4 +1,4 @@
-- Commissioned by Schirmer in 1959 in honour of the company’s 100th anniversary, written with pianist John Browning in mind. The piano concerto won Barber his second Pulitzer Prize (the first had been given for his opera Vanessa)
+Commissioned by Schirmer in 1959 in honour of the company’s 100th anniversary, written with pianist John Browning in mind. The piano concerto won Barber his second Pulitzer Prize (the first had been given for his opera Vanessa)
 - demonstrates eclecticism ([[ECLECTICISM; synthesis of musical styles & genres]]) with influence from European tradition ([[EUROPEAN LINK]]), yet with modernistic influences. Even each movement within the concerto differs in style.
 - https://www.youtube.com/watch?v=HobIr7logJc
 	- 00:00 – Allegro appassionato – Features inversion, retrograde and counterpoint variations of the opening themes
