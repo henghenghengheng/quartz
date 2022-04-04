@@ -186,7 +186,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
     .attr("dx", 12)
     .attr("dy", ".35em")
     .text((d) => content[d.id]?.title || d.id.replace("-", " "))
-    .style("opacity", 0)
+    .style("opacity", 1)
     .style("pointer-events", "none")
     .call(drag(simulation));
 
