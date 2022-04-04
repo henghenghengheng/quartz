@@ -1,4 +1,11 @@
-Suite for orchestra in seven short movements, each a characteristic sketch that presents a clear programme relating to the given subtitle, comprising lyrical melodies and demonstrating influences from African-American music ([[ECLECTICISM; synthesis of musical styles & genres]])
+---
+title: "William Grant Still - From the Black Belt (1926)"
+tags:
+- #WGStill   
+enableToc: false # do not show a table of contents on this page
+---
+
+- Suite for orchestra in seven short movements, each a characteristic sketch that presents a clear programme relating to the given subtitle, comprising lyrical melodies and demonstrating influences from African-American music ([[ECLECTICISM; synthesis of musical styles & genres]])
 	1) Li’l Scamp
 	2) Honeysuckle
 	3) Dance

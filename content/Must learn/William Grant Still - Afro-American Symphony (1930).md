@@ -1,3 +1,10 @@
+---
+title: "William Grant Still - Afro-American Symphony (1930)"
+tags:
+- #WGStill    
+enableToc: false # do not show a table of contents on this page
+---
+
 - The symphony encompasses African-American music elements ([[ECLECTICISM; synthesis of musical styles & genres]]) within the traditional framework of a European four-movement symphony ([[EUROPEAN LINK]])
 - https://www.youtube.com/watch?v=8hzFcm6HCe
 	- Includes use of the banjo 
