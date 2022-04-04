@@ -14,3 +14,4 @@ enableToc: false # do not show a table of contents on this page
 	4) He Was Her Baby
 	5) They Took Away His Freedom
 	6) They Left Him Hanging
+- Possible point of comparison with mvt 3 of [[Good to learn/Leonard Bernstein - Symphony No. 1 'Jeremiah' (1942)]]
