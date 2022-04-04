@@ -4,3 +4,5 @@ tags:
 - topic     
 enableToc: false # do not show a table of contents on this page
 ---
+
+ECLECTICISM; synthesis of musical styles & genres
