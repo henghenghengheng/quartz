@@ -1,14 +1,13 @@
-name: Jacky Zhao
+name: Ji Heng
 enableToc: true
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Quartz repository forked from Jacky Zhao
 page_title:
-  "🪴 Quartz 3.2"
+  "🇺🇸 Music in America Revision"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: "2022 EJC MEP JC2 T&L"
+    link: https://tan-driver-606.notion.site/0a4f1cd6263a4bc7ae82eec5faaffb4b?v=0749eef26cd442afa650a7e75e7f312a
+  - link_name: "Google Drive"
+    link: https://drive.google.com/drive/folders/1ofIS_AwZCOvg4qZmHAL6PWsxbDN4oGFg?usp=sharing
