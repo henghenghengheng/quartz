@@ -1,7 +1,7 @@
 ---
 title: "Charles Griffes - Piano Sonata (1917-18)"
 tags:
-- #Griffes 
+- Griffes 
 enableToc: false # do not show a table of contents on this page
 ---
 
