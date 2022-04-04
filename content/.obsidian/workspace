@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "644fe3870018061e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8040f9dd9ec6175c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90addafa8eec8849",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55e806f5f2b0185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85533fad371d967b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97d06174f8e1cf36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7a27a887ea04ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "220594b8ccfb497f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9d32f8abc50185d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8040f9dd9ec6175c",
+  "lastOpenFiles": [
+    "_index.md",
+    "TOPICS/DISTINCTIVE AMERICAN VOICE.md",
+    "Good to know/Charles Griffes - Piano Sonata (1917-18).md",
+    "templates/post.md",
+    "Must learn/William Grant Still - Afro-American Symphony (1930).md",
+    "Must learn/Charles Ives - Three Places in New England [fw] (1911-13).md",
+    "Must learn/Charles Ives - The Unanswered Question (1908).md",
+    "Must learn/Charles Griffes - Five Poems of Ancient China and Japan (1917).md",
+    "Good to learn/William Grant Still - From the Black Belt (1926).md",
+    "Good to learn/William Grant Still - And They Lynched Him on a Tree (1940).md"
+  ]
+}
