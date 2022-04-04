@@ -10,5 +10,3 @@ enableToc: false # do not show a table of contents on this page
 	- gliding parallel chords
 	- whole-tone scales 
 	- ostinato figures
-
-#Griffes

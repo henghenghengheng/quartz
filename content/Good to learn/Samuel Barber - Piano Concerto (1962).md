@@ -12,5 +12,3 @@ Commissioned by Schirmer in 1959 in honour of the company’s 100th anniversary,
 	- 12:50 – Canzone: moderato – Features self-borrowing with Barber orchestrating and extending upon his *Elegy for Flute and Piano*; the lyrical song-like movement is in contrast with the 1st and 3rd movements
 	- 20:01 – Allegro molto – Features motoric jazz rhythms in 5/8 meter, ostinato figure in the piano
 - a possible point of comparison with Bernstein's Sym No. 2
-
-#Barber 

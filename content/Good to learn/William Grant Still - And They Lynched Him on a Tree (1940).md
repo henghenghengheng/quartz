@@ -14,5 +14,3 @@ enableToc: false # do not show a table of contents on this page
 	4) He Was Her Baby
 	5) They Took Away His Freedom
 	6) They Left Him Hanging
-
-#WGStill

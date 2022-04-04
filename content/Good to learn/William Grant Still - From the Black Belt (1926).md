@@ -13,5 +13,3 @@ enableToc: false # do not show a table of contents on this page
 	5) Blue
 	6) Brown Girl
 	7) Clap Yo’ Han’s
-
-#WGStill

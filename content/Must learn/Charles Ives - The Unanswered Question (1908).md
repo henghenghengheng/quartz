@@ -7,5 +7,3 @@ enableToc: false # do not show a table of contents on this page
 
 - [[PROGRAMME MUSIC (vs Absolute music)]]
 - [[MODERNISM; avant-garde; experimental music]]
-
-#Ives
